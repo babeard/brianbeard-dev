@@ -34,5 +34,10 @@
 		"vite": "^5.0.3",
 		"vitest": "^1.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource/jetbrains-mono": "^5.0.20",
+		"@fontsource/manrope": "^5.0.20",
+		"lucide-svelte": "^0.394.0"
+	}
 }
